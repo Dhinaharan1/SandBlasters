@@ -1,0 +1,8 @@
+D:\Project\WorkOut\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\bin\Debug\HelperSAUtility.dll
+D:\Project\WorkOut\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\bin\Debug\HelperSAUtility.pdb
+D:\Project\WorkOut\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\obj\Debug\HelperSAUtility.dll
+D:\Project\WorkOut\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\obj\Debug\HelperSAUtility.pdb
+C:\Projects\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\bin\Debug\HelperSAUtility.dll
+C:\Projects\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\bin\Debug\HelperSAUtility.pdb
+C:\Projects\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\obj\Debug\HelperSAUtility.dll
+C:\Projects\SentimentAnalyser\BL.SentimentAnalyser\HelperSAUtility\obj\Debug\HelperSAUtility.pdb
